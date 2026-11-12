@@ -45,7 +45,6 @@ The dashboard is divided into three analytical pages: Snapchat Overview, Engagem
 - Microsoft Power BI
 - Microsoft Excel
 - Power Query
-- Python
 - Data Analytics
 - Data Visualization
 
