@@ -20,9 +20,8 @@ The project aims to transform raw user data into meaningful insights that help u
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI:** Data visualization and dashboard development (if used).
+- **Microsoft Power BI:** Data visualization and dashboard development 
 - **Microsoft Excel:** Data preparation and management (if used).
-- **Python:** Data analysis and processing (if used).
 - **Power Query:** Data cleaning and transformation (if used).
 
 
