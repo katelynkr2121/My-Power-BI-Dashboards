@@ -1,4 +1,4 @@
-# My Projects 🚀
+# My Power BI Dashboard Projects 🚀
 
 Welcome to my GitHub repository!
 
