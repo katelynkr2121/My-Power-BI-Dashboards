@@ -23,7 +23,9 @@ An interactive three-page dashboard developed using Microsoft Power BI to analyz
 
 ### 2. Energy Projects ⚡
 
-A collection of energy-related projects focused on exploring concepts, practical applications, and technical solutions.
+The Energy Projects Dashboard is an interactive data visualization project developed using Microsoft Power BI. It focuses on analyzing energy-related data, understanding energy performance, and exploring detailed insights through interactive reports.
+
+The dashboard is organized into three analytical pages: Energy Overview, Energy Analysis, and Deep Analysis. Each page provides a different level of understanding of the available energy data.
 
 📁 [Explore Energy Projects](./02-Energy-Projects/)
 
@@ -31,7 +33,9 @@ A collection of energy-related projects focused on exploring concepts, practical
 
 ### 3. Snapchat User Analytics 👻
 
-A data analytics project focused on exploring Snapchat user-related information, analyzing patterns, and presenting meaningful insights through data analysis.
+The Snapchat User Analytics Dashboard is an interactive data analytics project developed using Microsoft Power BI. It focuses on understanding Snapchat user activity, engagement patterns, and user behavior through data visualization and analysis.
+
+The dashboard is divided into three analytical pages: Snapchat Overview, Engagement Analysis, and User Behavior Analysis. Each page provides a different perspective on user-related data and helps identify meaningful patterns and insights.
 
 📁 [Explore Snapchat User Analytics](./03-Snapchat-User-Analytics/)
 
